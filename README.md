@@ -34,4 +34,26 @@ This function is being accessed using the puts() function. We pass pattern_table
 pioasm tool is used to convert the assembler code to binary. We use the CMake function to invoke the pioasm and add the generated header to the include path of our target. The actual function being used it pico_generate_pio_header(TARGETPIO_FILE).
 
 
-## **3.3**
+## **3.3:**
+
+ws2812.c
+
+![annotate](https://user-images.githubusercontent.com/114099174/196359189-e3124e6f-f716-4df4-ad38-e6d48f870599.png)
+
+![sc2](https://user-images.githubusercontent.com/114099174/196360040-5684455b-66af-4fbc-9f27-c788e86e64e3.png)
+
+![sc3](https://user-images.githubusercontent.com/114099174/196360075-6a9ef7d6-4bed-4683-aa91-a6e2dd1d8749.png)
+
+
+ws2812.pio
+
+![sc4](https://user-images.githubusercontent.com/114099174/196361956-7126eb36-765d-4c9b-9316-4116d74dea26.png)
+
+![sc5](https://user-images.githubusercontent.com/114099174/196361794-4e132bf9-49d1-4174-b431-c3fa40012229.png)
+
+![sc6](https://user-images.githubusercontent.com/114099174/196361806-a9327dfe-67b8-487a-8f7d-585d59911ab4.png)
+
+![sc7](https://user-images.githubusercontent.com/114099174/196361867-50e5d197-c17c-406a-bdc5-5086efb206ec.png)
+
+
+
