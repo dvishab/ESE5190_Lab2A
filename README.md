@@ -79,6 +79,11 @@ The link to the Excel sheet acn be found here: [3.4_color_by_number](https://git
 
 This spreadsheet contains the register value over the packet transmission. Follow this link: [3.6-3.7](https://github.com/dvishab/ESE5190_Lab2A/files/9807802/3.7-3.6.xlsx)
 
+## **4**
+
+
+![WhatsApp_Video_2022-10-18_at_6_03_00_AM_AdobeExpress](https://user-images.githubusercontent.com/114099174/196410152-f4b6a20a-5e66-4fc0-b24f-b9c6f4a612ad.gif)
+
 
 
 
