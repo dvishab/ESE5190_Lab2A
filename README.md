@@ -57,3 +57,7 @@ ws2812.pio
 
 ![sc9](https://user-images.githubusercontent.com/114099174/196362789-f35b7447-e0d5-476f-b591-3a489e1f4a35.png)
 
+
+## **3.4**
+
+The link to the Excel sheet acn be found here: [3.4_color_by_number](https://github.com/dvishab/ESE5190_Lab2A/files/9807554/3.4.xlsx) 
