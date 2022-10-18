@@ -1,5 +1,6 @@
 # ESE5190_Lab2A
 **3.2**:
+
 1.Why is bit-banging impractical on your laptop, despite it having a much faster processor than the RP2040?
 
 Bit-banging is hard and even though the processor is much faster than RP2040, the processor isn’t really designed for that. For "bit-banging" one needs to sit the processor in a carefully timed loop, often painstakingly written in assembly, trying to make sure the GPIO reading and writing happens on the exact cycle required and this requires really hard work if indeed possible at all. ). Also, your processor is now busy doing the "bit-banging", and cannot be used for other tasks. If the processor is interrupted even for a few microseconds to attend to one of the hard peripherals it is also responsible for, this can be fatal to the timing of any bit-banged protocol. And due to this, it is not advisable to use bit-banging.
