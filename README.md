@@ -1,5 +1,11 @@
 # ESE5190_Lab2A
 
+University of Pennsylvania, ESE 5190: Intro to Embedded Systems
+ 
+ Dvisha Kishore Bakarania
+ <br />
+ LinkedIn: [Dvisha Bakarania](https://www.linkedin.com/in/dvisha-bakarania-9370b2146?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNtJBfZpDTEKluhukjP7uqg%3D%3D) 
+
 ## **3.2**:
 
 1.Why is bit-banging impractical on your laptop, despite it having a much faster processor than the RP2040?
@@ -71,7 +77,7 @@ The link to the Excel sheet acn be found here: [3.4_color_by_number](https://git
 
 ## **3.6-3.7**
 
-Follow this link: [3.6-3.7](https://github.com/dvishab/ESE5190_Lab2A/files/9807802/3.7-3.6.xlsx)
+This spreadsheet contains the register value over the packet transmission. Follow this link: [3.6-3.7](https://github.com/dvishab/ESE5190_Lab2A/files/9807802/3.7-3.6.xlsx)
 
 
 
