@@ -1,4 +1,5 @@
 # ESE5190_Lab2A
+
 **3.2**:
 
 1.Why is bit-banging impractical on your laptop, despite it having a much faster processor than the RP2040?
@@ -20,6 +21,8 @@ The state machine needs to be told which GPIO or GPIOs to set as output. There a
 5.How do you program a PIO state machine
 
 The RP2040 has two PIO blocks, each of them with four state machines. Each PIO block has a 32-slot instruction memory which is visible to the four state machines in the block. Our program needs to be loaded into this instruction memory before any of our state machines can run the program. Once the program is loaded, we find a free state machine and tell it to run our program. We can order multiple state machines to run the same program, or tell each state machine to run a different program. The state machine stalls if we don’t provide any data in the TX FIFO, for which it is waiting. We need to write a function to push the data into the TX FIFO. In this way, we can successfully program a PIO state machine.
+
+
 
 6.In the example, which low-level C SDK function is directly responsible for telling the PIO to set the LED to a new color? How is this function accessed from the main “application” code?
 
