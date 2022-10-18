@@ -1,6 +1,6 @@
 # ESE5190_Lab2A
 
-**3.2**:
+## **3.2**:
 
 1.Why is bit-banging impractical on your laptop, despite it having a much faster processor than the RP2040?
 
@@ -32,3 +32,6 @@ This function is being accessed using the puts() function. We pass pattern_table
 7.What role does the pioasm “assembler” play in the example, and how does this interact with CMake?
 
 pioasm tool is used to convert the assembler code to binary. We use the CMake function to invoke the pioasm and add the generated header to the include path of our target. The actual function being used it pico_generate_pio_header(TARGETPIO_FILE).
+
+
+## **3.3**
