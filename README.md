@@ -36,7 +36,7 @@ pioasm tool is used to convert the assembler code to binary. We use the CMake fu
 
 ## **3.3:**
 
-ws2812.c
+**ws2812.c**
 
 ![annotate](https://user-images.githubusercontent.com/114099174/196359189-e3124e6f-f716-4df4-ad38-e6d48f870599.png)
 
@@ -45,7 +45,7 @@ ws2812.c
 ![sc3](https://user-images.githubusercontent.com/114099174/196360075-6a9ef7d6-4bed-4683-aa91-a6e2dd1d8749.png)
 
 
-ws2812.pio
+**ws2812.pio**
 
 ![sc4](https://user-images.githubusercontent.com/114099174/196361956-7126eb36-765d-4c9b-9316-4116d74dea26.png)
 
