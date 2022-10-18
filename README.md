@@ -53,7 +53,7 @@ ws2812.pio
 
 ![sc6](https://user-images.githubusercontent.com/114099174/196361806-a9327dfe-67b8-487a-8f7d-585d59911ab4.png)
 
-![sc7](https://user-images.githubusercontent.com/114099174/196361867-50e5d197-c17c-406a-bdc5-5086efb206ec.png)
+![sc8](https://user-images.githubusercontent.com/114099174/196362727-d8b758d1-3752-40ee-b179-39ae1111d429.png)
 
-
+![sc9](https://user-images.githubusercontent.com/114099174/196362789-f35b7447-e0d5-476f-b591-3a489e1f4a35.png)
 
